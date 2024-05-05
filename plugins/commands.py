@@ -441,7 +441,7 @@ async def start(client, message):
         btn = [[
                     InlineKeyboardButton("♻️Vᴇʀɪғʏ♻️", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start="))
                 ],[
-                    InlineKeyboardButton('ʜᴏᴡ ᴛᴏ ᴠᴇʀɪғʏ', url=f'https://t.me/how_to_open_linkzz/7')
+                    InlineKeyboardButton('ʜᴏᴡ ᴛᴏ ᴠᴇʀɪғʏ', url=f'https://t.me/tu_url/26')
                 ]]
         await message.reply_text(
             text="<b>You are not verified !\nKindly verify to continue ! So That you Can Get Access To Unlimited Movies Until 12 Hours From Now ! </b>",
@@ -460,7 +460,7 @@ async def start(client, message):
               InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="https://t.me/+3iUhYfWqMMk4MGU1")
+              InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="https://t.me/+WRV57Pro2U02N2E9")
              ]
             ]
         )
